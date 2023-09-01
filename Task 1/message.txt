@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+20c8efe701f6ec1b0363452d0df131fc58d9828d
+=======
+9f6b20be5044668e9cb5550c61319da2269db034
+>>>>>>> 5fc61b6 (commit 7)
+=======
+This is the eighth commit.
+Second commit in the feature branch!
+>>>>>>> 4dc9f8a (commit 8)
